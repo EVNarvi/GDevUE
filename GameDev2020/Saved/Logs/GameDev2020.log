@@ -796,3 +796,938 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.08-11.57.57:497][201]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.08-11.57.57:498][201]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.09.08-11.57.57:498][201]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.09.08-12.18.37:723][510]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.09.08-12.18.39:561][647]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.09.08-12.19.12:266][416]LogSlate: Took 0.012188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.08-12.19.48:567][960]LogMaterial: Display: Missing cached shader map for material T_Lamp_M_Mat, compiling. 
+[2020.09.08-12.19.48:719][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.09.08-12.19.48:719][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.09.08-12.19.48:719][960]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.09.08-12.20.04:808][156]LogMaterial: Display: Missing cached shader map for material T_Fire_Tiled_Mat, compiling. 
+[2020.09.08-12.20.29:251][723]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.20.29:311][723]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.20.29:362][723]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.20.29:362][723]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.20.38:783][439]MapCheck: New page: Map Check
+[2020.09.08-12.20.38:825][439]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.08-12.20.38:833][439]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.08-12.20.39:101][439]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2020.09.08-12.20.39:108][439]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.20.39:249][439]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.09.08-12.20.39:249][439]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.09.08-12.20.39:249][439]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.09.08-12.20.39:265][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.09.08-12.20.53:924][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.09.08-12.20.53:924][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.09.08-12.20.53:924][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.09.08-12.20.53:924][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.09.08-12.20.53:924][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.09.08-12.20.53:924][439]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.20.53:955][439]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.20.53:958][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.09.08-12.20.53:958][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.09.08-12.20.53:958][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.09.08-12.20.53:958][439]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.20.53:960][439]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.20.56:411][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.09.08-12.20.56:411][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.09.08-12.20.56:411][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.09.08-12.20.56:411][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.09.08-12.20.56:411][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.09.08-12.20.56:411][439]TextureStreamingBuild: Display: Compiling optional shaders took 2.561 seconds.
+[2020.09.08-12.20.56:510][439]LogLevel: Display: Export Material TexCoord Scales took 0.097 seconds.
+[2020.09.08-12.20.56:527][439]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2020.09.08-12.20.56:537][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.09.08-12.20.56:743][439]LightingResults: New page: Lighting Build - 8.9.2020 klo 18.20.56
+[2020.09.08-12.20.56:892][439]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.08-12.20.57:027][439]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.08-12.20.57:044][439]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.08-12.20.57:674][439]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.08-12.20.57:675][439]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21296
+[2020.09.08-12.21.05:134][439]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.08-12.21.05:158][439]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.08-12.21.05:158][439]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.08-12.21.05:158][439]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.08-12.21.05:158][439]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.08-12.21.05:158][439]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.08-12.21.05:428][439]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.08-12.21.05:428][439]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.21.05
+[2020.09.08-12.21.05:541][439]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.21.05:541][439]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 112,338ms to complete.
+[2020.09.08-12.21.05:557][439]LogEditorBuildUtils: Build time 0:26
+[2020.09.08-12.21.05:669][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.09.08-12.21.05:672][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.09.08-12.21.05:675][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2020.09.08-12.21.05:678][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2020.09.08-12.21.05:830][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.09.08-12.21.05:830][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.09.08-12.21.05:830][439]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.09.08-12.21.05:830][439]LogSlate: Took 0.023954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.08-12.21.05:849][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.09.08-12.21.05:863][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.09.08-12.21.05:954][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.09.08-12.21.05:958][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.09.08-12.21.15:972][443]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.09.08-12.21.15:972][443]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.09.08-12.21.15:972][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.09.08-12.21.15:972][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.09.08-12.21.16:090][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.09.08-12.21.16:133][443]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_Default_Auto168FE0F3C41AC9071BCBE98AF072E816B.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.09.08-12.21.16:134][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.083
+[2020.09.08-12.21.16:134][443]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.09.08-12.21.16:137][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Lamp_M_Mat] ([1] browsable assets)...
+[2020.09.08-12.21.16:187][443]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Lamp_M_Mat.T_Lamp_M_Mat]
+[2020.09.08-12.21.16:187][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Lamp_M_Mat]
+[2020.09.08-12.21.16:227][443]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/T_Lamp_M_Mat_Auto1BEF478ED4BD38FB549D5F69ADB098AA9.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_M_Mat_Auto1.uasset'
+[2020.09.08-12.21.16:228][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat] ([1] browsable assets)...
+[2020.09.08-12.21.16:239][443]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat]
+[2020.09.08-12.21.16:239][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat]
+[2020.09.08-12.21.16:246][443]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/T_Fire_Tiled_Mat_Auto1736CE8234F3099A315D33A8323AC009E.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_Tiled_Mat_Auto1.uasset'
+[2020.09.08-12.21.16:247][443]LogFileHelpers: Auto-saving content packages took 0.113
+[2020.09.08-12.21.16:449][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.08-12.21.19:136][473]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.21.19:140][473]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.21.20:623][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.09.08-12.21.21:513][562]Job is a success!
+[2020.09.08-12.21.21:767][563]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2020.09.08-12.21.21:767][563]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.08-12.21.21:767][563]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.09.08-12.21.21:767][563]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.08-12.21.21:767][563]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.09.08-12.21.21:768][563]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.09.08-12.21.21:768][563]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.09.08-12.21.21:768][563]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.08-12.21.21:768][563]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.09.08-12.21.21:953][563]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.09.08-12.21.22:015][563]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.09.08-12.21.22:015][563]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.09.08-12.21.22:015][563]Lightmass on DESKTOP-FVQ3U4A: 2.93 sec total, 398 ms importing, 9 ms setup, 373 ms photons, 1.96 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 7.87 sec total, 1.14 sec processing.
+[2020.09.08-12.21.22:015][563]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.09.08-12.21.22:044][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.09.08-12.21.22:092][563]LogStaticLightingSystem: Illumination: 25.4 sec (184 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2020.09.08-12.21.22:092][563]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.08-12.21.22:092][563]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.08-12.21.22:149][563]DumpUnbuiltLightIteractions
+[2020.09.08-12.21.22:149][563]Lights with unbuilt interactions: 0
+[2020.09.08-12.21.22:149][563]
+[2020.09.08-12.21.22:149][563]Primitives with unbuilt interactions: 0
+[2020.09.08-12.21.22:294][564]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.08-12.21.22:295][564]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.21.22
+[2020.09.08-12.21.22:295][564]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.21.22:295][564]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,638ms to complete.
+[2020.09.08-12.21.29:135][ 38]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.21.29:135][ 38]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.21.42:594][ 55]MapCheck: New page: Map Check
+[2020.09.08-12.21.42:608][ 55]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.08-12.21.42:609][ 55]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.08-12.21.42:611][ 55]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2020.09.08-12.21.42:613][ 55]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.21.42:620][ 55]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.09.08-12.21.42:620][ 55]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.09.08-12.21.42:620][ 55]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.09.08-12.21.42:645][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.09.08-12.21.42:656][ 55]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.21.42:658][ 55]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.21.42:664][ 55]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.21.42:667][ 55]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.09.08-12.21.48:439][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.09.08-12.21.48:439][ 55]TextureStreamingBuild: Display: Compiling optional shaders took 5.783 seconds.
+[2020.09.08-12.21.48:453][ 55]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2020.09.08-12.21.48:454][ 55]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.09.08-12.21.48:468][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.09.08-12.21.48:472][ 55]LightingResults: New page: Lighting Build - 8.9.2020 klo 18.21.48
+[2020.09.08-12.21.48:477][ 55]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.08-12.21.48:486][ 55]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.08-12.21.48:486][ 55]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.08-12.21.48:489][ 55]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.08-12.21.48:489][ 55]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21296
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.08-12.21.53:127][ 55]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.08-12.21.53:353][ 55]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.08-12.21.53:353][ 55]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.21.53
+[2020.09.08-12.21.53:385][ 55]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.21.53:385][ 55]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 31,879ms to complete.
+[2020.09.08-12.21.53:388][ 55]LogEditorBuildUtils: Build time 0:10
+[2020.09.08-12.21.53:619][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.08-12.21.57:373][183]Job is a success!
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.08-12.21.57:540][184]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2020.09.08-12.21.57:584][184]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.09.08-12.21.57:585][184]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2020.09.08-12.21.57:585][184]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.09.08-12.21.57:600][184]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.09.08-12.21.57:629][184]Lightmass on DESKTOP-FVQ3U4A: 3.09 sec total, 623 ms importing, 7 ms setup, 748 ms photons, 1.56 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 6.25 sec total, 1.26 sec processing.
+[2020.09.08-12.21.57:668][184]LogStaticLightingSystem: Illumination: 9.10 sec (24 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2020.09.08-12.21.57:668][184]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.08-12.21.57:668][184]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.08-12.21.58:135][184]DumpUnbuiltLightIteractions
+[2020.09.08-12.21.58:135][184]Lights with unbuilt interactions: 0
+[2020.09.08-12.21.58:135][184]
+[2020.09.08-12.21.58:135][184]Primitives with unbuilt interactions: 0
+[2020.09.08-12.21.58:280][185]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.08-12.21.58:280][185]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.21.58
+[2020.09.08-12.21.58:280][185]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.21.58:280][185]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,655ms to complete.
+[2020.09.08-12.22.01:700][414]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.22.01:712][414]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.22.02:295][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.09.08-12.22.05:749][723]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.22.06:707][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.09.08-12.22.30:505][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.30:506][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.30:508][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.30:508][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.30:508][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.30:508][732]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.53:315][555]MapCheck: New page: Map Check
+[2020.09.08-12.22.53:331][555]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.08-12.22.53:332][555]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.08-12.22.53:334][555]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2020.09.08-12.22.53:335][555]PIE: Warning: Trying to simulate physics on ''/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Wall_Door_400x300_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.09.08-12.22.53:340][555]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.09.08-12.22.53:340][555]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.09.08-12.22.53:340][555]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.09.08-12.22.53:350][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.09.08-12.22.53:353][555]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.22.53:355][555]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.22.53:357][555]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.22.53:359][555]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.09.08-12.22.53:359][555]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.09.08-12.22.53:359][555]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.09.08-12.22.53:359][555]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.08-12.22.56:647][555]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.09.08-12.22.56:647][555]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.09.08-12.22.56:647][555]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.09.08-12.22.56:647][555]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.09.08-12.22.56:647][555]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.09.08-12.22.56:647][555]TextureStreamingBuild: Display: Compiling optional shaders took 3.294 seconds.
+[2020.09.08-12.22.56:653][555]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.09.08-12.22.56:656][555]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.09.08-12.22.56:664][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.08-12.22.56:669][555]LightingResults: New page: Lighting Build - 8.9.2020 klo 18.22.56
+[2020.09.08-12.22.56:673][555]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.08-12.22.56:678][555]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.08-12.22.56:678][555]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.08-12.22.56:680][555]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.08-12.22.56:680][555]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21296
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.08-12.23.01:253][555]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.08-12.23.01:493][555]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.08-12.23.01:493][555]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.23.01
+[2020.09.08-12.23.01:494][555]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.23.01:494][555]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,584ms to complete.
+[2020.09.08-12.23.01:497][555]LogEditorBuildUtils: Build time 0:08
+[2020.09.08-12.23.01:743][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.08-12.23.04:256][642]Job is a success!
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.09.08-12.23.04:420][643]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.09.08-12.23.04:421][643]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.08-12.23.04:421][643]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.09.08-12.23.04:451][643]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2020.09.08-12.23.04:451][643]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.09.08-12.23.04:469][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.09.08-12.23.04:526][643]Lightmass on DESKTOP-FVQ3U4A: 2.08 sec total, 253 ms importing, 82 ms setup, 231 ms photons, 1.42 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 5.70 sec total, 526 ms processing.
+[2020.09.08-12.23.04:535][643]LogStaticLightingSystem: Illumination: 7.77 sec (18 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2020.09.08-12.23.04:535][643]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.08-12.23.04:535][643]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.08-12.23.05:253][643]DumpUnbuiltLightIteractions
+[2020.09.08-12.23.05:253][643]Lights with unbuilt interactions: 0
+[2020.09.08-12.23.05:253][643]
+[2020.09.08-12.23.05:253][643]Primitives with unbuilt interactions: 0
+[2020.09.08-12.23.05:386][644]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.08-12.23.05:386][644]MapCheck: New page: Minimal_Default - 8.9.2020 klo 18.23.05
+[2020.09.08-12.23.05:387][644]MapCheck: Warning: Wall_Door_400x300_2 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2020.09.08-12.23.05:387][644]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,75ms to complete.
+[2020.09.08-12.23.10:492][998]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.23.10:500][998]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-12.23.31:578][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.23.33:062][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.09.08-12.24.42:458][459]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.24.42:717][459]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.24.42:722][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.09.08-12.25.18:896][941]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png' error.
+[2020.09.08-12.25.18:896][941]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png
+[2020.09.08-12.25.27:225][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.25.28:850][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.25.30:538][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.25.48:282][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-12.25.48:680][866]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2020.09.08-12.25.50:926][  6]Cmd: DELETE
+[2020.09.08-12.25.50:926][  6]Cmd: ACTOR DELETE
+[2020.09.08-12.25.50:930][  6]LogEditorActor: Deleted Actor: Actor
+[2020.09.08-12.25.50:967][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.09.08-12.25.50:971][  6]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.09.08-12.25.53:107][169]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.25.55:706][341]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/whatYouAreMaking.png' error.
+[2020.09.08-12.25.55:706][341]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/whatYouAreMaking.png
+[2020.09.08-12.27.30:111][863]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage11_01.png' error.
+[2020.09.08-12.27.30:111][863]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage11_01.png
+[2020.09.08-12.28.14:146][655]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.28.16:026][765]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.28.37:180][141]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.28.37:201][141]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage0_01.png' error.
+[2020.09.08-12.28.37:201][141]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage0_01.png
+[2020.09.08-12.28.37:201][141]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Trans_01.png' error.
+[2020.09.08-12.28.37:201][141]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Trans_01.png
+[2020.09.08-12.28.47:387][821]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.09.08-12.31.01:848][938]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.09.08-12.31.13:677][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.09.08-12.31.23:254][107]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage1_01.png' error.
+[2020.09.08-12.31.23:254][107]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage1_01.png
+[2020.09.08-12.31.47:721][927]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage2_01.png' error.
+[2020.09.08-12.31.47:721][927]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage2_01.png
+[2020.09.08-12.31.47:721][927]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Step6.png' error.
+[2020.09.08-12.31.47:721][927]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Step6.png
+[2020.09.08-12.32.07:529][323]Cmd: TRANSACTION UNDO
+[2020.09.08-12.32.07:529][323]LogEditorTransaction: Undo Modify Component(s)
+[2020.09.08-12.32.07:870][329]Cmd: TRANSACTION UNDO
+[2020.09.08-12.32.07:870][329]LogEditorTransaction: Undo Add Component
+[2020.09.08-12.32.09:334][431]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.32.25:759][605]Cmd: DELETE
+[2020.09.08-12.32.25:759][605]Cmd: ACTOR DELETE
+[2020.09.08-12.32.25:770][605]LogEditorActor: Deleted 1 Components (0.011 secs)
+[2020.09.08-12.32.48:272][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-12.32.48:836][286]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.32.49:485][338]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.32.50:096][387]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.32.51:720][519]Cmd: TRANSACTION UNDO
+[2020.09.08-12.32.51:720][519]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.08-12.32.52:378][543]Cmd: TRANSACTION UNDO
+[2020.09.08-12.32.52:378][543]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.08-12.32.52:920][586]Cmd: TRANSACTION UNDO
+[2020.09.08-12.32.52:920][586]LogEditorTransaction: Undo Set Rotation
+[2020.09.08-12.32.54:098][678]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.09.08-12.33.12:207][988]Cmd: DELETE
+[2020.09.08-12.33.12:208][988]Cmd: ACTOR DELETE
+[2020.09.08-12.33.12:224][988]LogEditorActor: Deleted 1 Components (0.013 secs)
+[2020.09.08-12.33.21:201][633]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.09.08-12.34.11:115][153]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage3_01.png' error.
+[2020.09.08-12.34.11:115][153]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage3_01.png
+[2020.09.08-12.34.55:098][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.09.08-12.34.55:117][981]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_Default_Auto2E2C138A947E33C5653F1009126B6354D.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.09.08-12.34.55:117][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2020.09.08-12.34.55:117][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.029
+[2020.09.08-12.37.35:430][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-12.37.43:574][243]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2020.09.08-12.38.33:236][ 85]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.09.08-12.39.38:291][538]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage4_01.png' error.
+[2020.09.08-12.39.38:291][538]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage4_01.png
+[2020.09.08-12.40.13:536][675]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.08-12.40.16:914][974]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.40.27:655][152]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.40.27:668][152]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage0_01.png' error.
+[2020.09.08-12.40.27:668][152]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage0_01.png
+[2020.09.08-12.40.28:699][261]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.40.50:791][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-12.40.52:406][854]LogEditorViewport: Clicking on Actor (LMB): Actor (Brazier)
+[2020.09.08-12.41.19:013][739]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage1_01.png' error.
+[2020.09.08-12.41.19:014][739]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage1_01.png
+[2020.09.08-12.41.20:143][848]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.41.42:028][272]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage2_01.png' error.
+[2020.09.08-12.41.42:028][272]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage2_01.png
+[2020.09.08-12.41.50:284][200]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage3_01.png' error.
+[2020.09.08-12.41.50:284][200]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part3/IWBE_Tutorial_Part3_Stage3_01.png
+[2020.09.08-12.42.06:926][846]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials' is outside repository
+[2020.09.08-12.42.06:926][846]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials: 'D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials' is outside repository
+[2020.09.08-12.42.06:926][846]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.09.08-12.42.06:926][846]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository
+[2020.09.08-12.42.14:568][486]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials' is outside repository
+[2020.09.08-12.42.14:568][486]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials: 'D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials' is outside repository
+[2020.09.08-12.42.14:568][486]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.09.08-12.42.14:568][486]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository
+[2020.09.08-12.42.21:466][162]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials: 'D:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Materials' is outside repository
+[2020.09.08-12.42.21:466][162]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.09.08-12.42.21:930][207]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository
+[2020.09.08-12.42.22:004][213]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository
+[2020.09.08-12.42.22:102][222]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset' is outside repository
+[2020.09.08-12.42.22:138][225]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset' is outside repository
+[2020.09.08-12.42.24:451][379]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset' is outside repository
+[2020.09.08-12.42.24:466][380]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset' is outside repository
+[2020.09.08-12.42.24:688][389]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_CurveEd_MAT.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_CurveEd_MAT.uasset' is outside repository
+[2020.09.08-12.42.25:236][435]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset' is outside repository
+[2020.09.08-12.42.25:443][451]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset' is outside repository
+[2020.09.08-12.42.25:486][452]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset' is outside repository
+[2020.09.08-12.42.26:689][553]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Tip.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Tip.uasset' is outside repository
+[2020.09.08-12.42.26:706][554]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/ClothMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/ClothMaterial.uasset' is outside repository
+[2020.09.08-12.42.26:727][555]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset' is outside repository
+[2020.09.08-12.42.27:016][580]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial.uasset' is outside repository
+[2020.09.08-12.42.27:024][581]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial_MaskedRegion.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial_MaskedRegion.uasset' is outside repository
+[2020.09.08-12.42.27:036][582]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cross_Mat.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Cross_Mat.uasset' is outside repository
+[2020.09.08-12.42.27:089][586]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/CubeMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/CubeMaterial.uasset' is outside repository
+[2020.09.08-12.42.27:154][592]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomDepth.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomDepth.uasset' is outside repository
+[2020.09.08-12.42.27:491][624]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset' is outside repository
+[2020.09.08-12.42.27:717][641]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomStencil.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/CustomStencil.uasset' is outside repository
+[2020.09.08-12.42.28:665][725]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset' is outside repository
+[2020.09.08-12.42.28:676][726]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/DebugMeshMaterialFakeLight.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/DebugMeshMaterialFakeLight.uasset' is outside repository
+[2020.09.08-12.42.28:688][727]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultDecalMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultDecalMaterial.uasset' is outside repository
+[2020.09.08-12.42.28:750][732]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset' is outside repository
+[2020.09.08-12.42.29:113][753]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultParticle.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultParticle.uasset' is outside repository
+[2020.09.08-12.42.29:159][755]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset' is outside repository
+[2020.09.08-12.42.29:169][756]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset' is outside repository
+[2020.09.08-12.42.30:383][867]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/FinalImage.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/BufferVisualization/FinalImage.uasset' is outside repository
+[2020.09.08-12.42.30:395][868]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset' is outside repository
+[2020.09.08-12.42.30:508][877]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/FogVolumeMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/FogVolumeMaterial.uasset' is outside repository
+[2020.09.08-12.42.30:684][892]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset' is outside repository
+[2020.09.08-12.42.30:684][892]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset' is outside repository
+[2020.09.08-12.42.30:684][892]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/FlowMaps.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/FlowMaps.uasset' is outside repository
+[2020.09.08-12.42.30:705][894]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/FoliageBrushSphereMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/FoliageBrushSphereMaterial.uasset' is outside repository
+[2020.09.08-12.42.30:726][896]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Frac_ElementMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Frac_ElementMaterial.uasset' is outside repository
+[2020.09.08-12.42.30:823][905]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/FrameMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/FrameMaterial.uasset' is outside repository
+[2020.09.08-12.42.31:327][958]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset' is outside repository
+[2020.09.08-12.42.31:635][982]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset' is outside repository
+[2020.09.08-12.42.33:214][135]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/GridMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/GridMaterial.uasset' is outside repository
+[2020.09.08-12.42.33:224][136]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset' is outside repository
+[2020.09.08-12.42.33:250][138]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset' is outside repository
+[2020.09.08-12.42.33:312][144]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset' is outside repository
+[2020.09.08-12.42.33:601][169]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpActorMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpActorMaterial.uasset' is outside repository
+[2020.09.08-12.42.33:622][171]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpFlatColour.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpFlatColour.uasset' is outside repository
+[2020.09.08-12.42.33:633][172]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpFlatColour_Blk_Inst.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/HelpFlatColour_Blk_Inst.uasset' is outside repository
+[2020.09.08-12.42.35:315][332]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/HighResScreenshotMask.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/HighResScreenshotMask.uasset' is outside repository
+[2020.09.08-12.42.35:338][334]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset' is outside repository
+[2020.09.08-12.42.35:726][367]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset' is outside repository
+[2020.09.08-12.42.35:770][370]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset' is outside repository
+[2020.09.08-12.42.35:825][373]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset' is outside repository
+[2020.09.08-12.42.35:852][375]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/GeometryCollection/InMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/GeometryCollection/InMaterial.uasset' is outside repository
+[2020.09.08-12.42.35:877][377]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset' is outside repository
+[2020.09.08-12.42.36:089][396]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/KeyMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/UI/KeyMaterial.uasset' is outside repository
+[2020.09.08-12.42.36:168][401]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset' is outside repository
+[2020.09.08-12.42.41:897][899]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/Camera/MI_CineCam_ViewFinder.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/Camera/MI_CineCam_ViewFinder.uasset' is outside repository
+[2020.09.08-12.42.41:924][901]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset' is outside repository
+[2020.09.08-12.42.41:935][902]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset' is outside repository
+[2020.09.08-12.42.42:233][929]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset' is outside repository
+[2020.09.08-12.42.42:270][932]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/Camera/MI_CraneRig.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/Camera/MI_CraneRig.uasset' is outside repository
+[2020.09.08-12.42.42:282][933]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/BasicMeshes: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/BasicMeshes' is outside repository
+[2020.09.08-12.42.42:357][940]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineVolumetrics/Fogsheet/Mesh/MI_Fogsheet_HideClose.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineVolumetrics/Fogsheet/Mesh/MI_Fogsheet_HideClose.uasset' is outside repository
+[2020.09.08-12.42.44:734][163]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EditorShellMaterials/SketchUp/MI_Shell_64_WUV_SketchUp.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EditorShellMaterials/SketchUp/MI_Shell_64_WUV_SketchUp.uasset' is outside repository
+[2020.09.08-12.42.44:752][165]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset' is outside repository
+[2020.09.08-12.42.44:840][175]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseBlue_Metal.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseBlue_Metal.uasset' is outside repository
+[2020.09.08-12.42.45:131][207]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray.uasset' is outside repository
+[2020.09.08-12.42.45:156][209]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_02.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_02.uasset' is outside repository
+[2020.09.08-12.42.45:189][212]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset' is outside repository
+[2020.09.08-12.42.45:281][218]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_03.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_03.uasset' is outside repository
+[2020.09.08-12.42.45:314][219]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset' is outside repository
+[2020.09.08-12.42.45:330][220]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_Metal.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/TemplateResources/MI_Template_BaseGray_Metal.uasset' is outside repository
+[2020.09.08-12.42.48:871][415]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/Fonts/VRTextMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/Fonts/VRTextMaterial.uasset' is outside repository
+[2020.09.08-12.42.48:871][415]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials' is outside repository
+[2020.09.08-12.42.48:939][421]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Vive: 'D:/Epic Games/UE_4.25/Engine/Content/VREditor/Devices/Vive' is outside repository
+[2020.09.08-12.42.48:939][421]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/VolumeTextureThumbnailMaterial.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/EngineMaterials/VolumeTextureThumbnailMaterial.uasset' is outside repository
+[2020.09.08-12.43.52:697][967]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2020.09.08-12.43.52:873][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.09.08-12.43.52:928][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.Brazier_Blueprint
+[2020.09.08-12.43.54:091][967]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 125 classes and 0 folders.
+[2020.09.08-12.43.56:759][968]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.43.57:696][ 26]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.44.07:683][632]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.44.43:015][272]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.44.43:020][272]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.08-12.44.44:241][385]LogSlate: Window 'Brazier_Blueprint' being destroyed
+[2020.09.08-12.44.44:244][385]LogSlate: Window 'Brazier_Blueprint' being destroyed
+[2020.09.08-12.44.44:268][385]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-12.44.44:268][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-12.44.49:331][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.09.08-12.44.49:371][919]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_DefaultD3AF35B74ACDFB710C13FD965270AD9C.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.09.08-12.44.49:499][919]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_Default_BuiltData7279D0B04ED1B6C0DFDA99915EB77FBF.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.09.08-12.44.49:511][919]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-12.44.49:511][919]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.09.08-12.44.49:511][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.09.08-12.45.01:232][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.09.08-12.45.01:251][310]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_Default9B750083424B80872053BFA3045C6D6B.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.09.08-12.45.01:385][310]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Minimal_Default_BuiltData2823AF5642F5380FAE62348F2D6573D4.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.09.08-12.45.01:401][310]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-12.45.01:401][310]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.09.08-12.45.01:401][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.09.08-12.45.49:598][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.08-12.45.52:319][757]LogSlate: Window 'Save Content' being destroyed
+[2020.09.08-12.45.52:587][757]SourceControl: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository
+[2020.09.08-12.45.52:623][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset" SILENT=true
+[2020.09.08-12.45.52:797][757]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/Brazier_Blueprint1527035B44818921362B289B154C6267.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset'
+[2020.09.08-12.45.53:145][757]SourceControl: Error: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset' is outside repository
+[2020.09.08-12.45.53:145][757]SourceControl: Error: fatal: D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset: 'D:/Epic Games/UE_4.25/Engine/Content/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.uasset' is outside repository
+[2020.09.08-12.45.53:176][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/T_Fire_Tiled_Mat" FILE="C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset" SILENT=true
+[2020.09.08-12.45.53:178][757]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/T_Fire_Tiled_Mat2140E23A4285DAC2A07DFCA4F00F9635.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset'
+[2020.09.08-12.45.53:406][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/T_Lamp_M_Mat" FILE="C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset" SILENT=true
+[2020.09.08-12.45.53:410][757]LogSavePackage: Moving 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Saved/T_Lamp_M_Mat44CD95E1417ADC2A01EEAC9F75962380.tmp' to 'C:/Users/käyttäjä/Documents/GDevUE/GameDev2020/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset'
+[2020.09.08-12.45.53:912][757]LogSlate: Window 'GameDev2020 - Unreal Editor' being destroyed
+[2020.09.08-12.45.54:375][757]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-12.45.54:376][757]LogContentValidation: Display: Validating Blueprint /Engine/Tutorial/SubEditors/TutorialAssets/Brazier_Blueprint.Brazier_Blueprint
+[2020.09.08-12.45.54:376][757]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat
+[2020.09.08-12.45.54:376][757]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Lamp_M_Mat.T_Lamp_M_Mat
+[2020.09.08-12.45.54:539][758]Cmd: QUIT_EDITOR
+[2020.09.08-12.45.54:540][758]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.08-12.45.54:715][758]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.08-12.45.55:569][758]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.08-12.45.55:594][758]LogExit: Preparing to exit.
+[2020.09.08-12.45.57:435][758]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:437][758]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.08-12.45.57:440][758]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-12.45.57:710][758]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-12.45.57:718][758]LogExit: Editor shut down
+[2020.09.08-12.45.57:728][758]LogExit: Transaction tracking system shut down
+[2020.09.08-12.45.57:828][758]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.08-12.46.00:975][758]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E623843A00), frame # 123758
+[2020.09.08-12.46.00:975][758]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E626BAA340), frame # 123758
+[2020.09.08-12.46.03:664][758]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001E62D9E5800), frame # 123758
+[2020.09.08-12.46.03:664][758]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E631076840), frame # 123758
+[2020.09.08-12.46.03:677][758]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E62DA6AA00), frame # 123758
+[2020.09.08-12.46.05:617][758]LogExit: Object subsystem successfully closed.
+[2020.09.08-12.46.05:803][758]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.08-12.46.10:914][758]LogModuleManager: Shutting down and abandoning module BlueprintGraph (794)
+[2020.09.08-12.46.10:914][758]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (792)
+[2020.09.08-12.46.10:940][758]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.09.08-12.46.10:955][758]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.09.08-12.46.10:955][758]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.09.08-12.46.11:037][758]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.09.08-12.46.11:037][758]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.09.08-12.46.11:037][758]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.09.08-12.46.11:049][758]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.09.08-12.46.11:075][758]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.09.08-12.46.11:076][758]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.09.08-12.46.11:098][758]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.09.08-12.46.11:295][758]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.09.08-12.46.11:315][758]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.09.08-12.46.11:315][758]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.09.08-12.46.11:315][758]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.09.08-12.46.11:341][758]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.09.08-12.46.11:342][758]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.09.08-12.46.11:368][758]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.09.08-12.46.11:384][758]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.09.08-12.46.11:384][758]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.09.08-12.46.11:384][758]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.09.08-12.46.11:384][758]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.09.08-12.46.11:456][758]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.09.08-12.46.11:478][758]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.09.08-12.46.11:526][758]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.09.08-12.46.11:546][758]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.09.08-12.46.11:546][758]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.09.08-12.46.11:546][758]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.09.08-12.46.11:546][758]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.09.08-12.46.11:546][758]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.09.08-12.46.11:551][758]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.09.08-12.46.11:565][758]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.09.08-12.46.11:582][758]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.09.08-12.46.11:585][758]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.09.08-12.46.11:594][758]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.09.08-12.46.11:609][758]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.09.08-12.46.11:609][758]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.09.08-12.46.11:609][758]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.09.08-12.46.11:629][758]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.09.08-12.46.11:629][758]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.09.08-12.46.11:629][758]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.09.08-12.46.11:692][758]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.09.08-12.46.11:739][758]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.09.08-12.46.11:757][758]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.09.08-12.46.11:825][758]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.09.08-12.46.11:825][758]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.09.08-12.46.11:825][758]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.09.08-12.46.11:914][758]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.09.08-12.46.11:989][758]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.09.08-12.46.12:029][758]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.09.08-12.46.12:030][758]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.09.08-12.46.12:076][758]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.09.08-12.46.12:086][758]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.09.08-12.46.12:109][758]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.09.08-12.46.12:109][758]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.09.08-12.46.12:412][758]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.09.08-12.46.12:412][758]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.09.08-12.46.12:412][758]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.09.08-12.46.12:412][758]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.09.08-12.46.12:412][758]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.09.08-12.46.12:640][758]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.09.08-12.46.12:679][758]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.09.08-12.46.12:715][758]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.09.08-12.46.12:735][758]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.09.08-12.46.12:758][758]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.09.08-12.46.12:808][758]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.09.08-12.46.12:841][758]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.09.08-12.46.12:852][758]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.09.08-12.46.12:852][758]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.09.08-12.46.12:905][758]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.09.08-12.46.12:985][758]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.09.08-12.46.13:001][758]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.09.08-12.46.13:001][758]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.09.08-12.46.13:033][758]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.09.08-12.46.13:063][758]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.09.08-12.46.13:080][758]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.09.08-12.46.13:163][758]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.09.08-12.46.13:269][758]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.09.08-12.46.13:366][758]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.09.08-12.46.13:406][758]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.09.08-12.46.13:530][758]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.09.08-12.46.13:605][758]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.09.08-12.46.13:674][758]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.09.08-12.46.13:712][758]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.09.08-12.46.13:884][758]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.09.08-12.46.13:963][758]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.09.08-12.46.13:963][758]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.09.08-12.46.13:963][758]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.09.08-12.46.14:149][758]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.09.08-12.46.14:385][758]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.09.08-12.46.14:428][758]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.09.08-12.46.14:452][758]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.09.08-12.46.14:579][758]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.09.08-12.46.14:579][758]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.09.08-12.46.14:602][758]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.09.08-12.46.14:676][758]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.09.08-12.46.14:684][758]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.09.08-12.46.14:763][758]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.09.08-12.46.14:785][758]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.09.08-12.46.14:870][758]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.09.08-12.46.14:919][758]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.09.08-12.46.14:919][758]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.09.08-12.46.15:000][758]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.09.08-12.46.15:000][758]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.09.08-12.46.15:000][758]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.09.08-12.46.15:023][758]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.09.08-12.46.15:124][758]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.09.08-12.46.15:195][758]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.09.08-12.46.15:206][758]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.09.08-12.46.15:238][758]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.09.08-12.46.15:238][758]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.09.08-12.46.15:401][758]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.09.08-12.46.15:505][758]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.09.08-12.46.15:505][758]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.09.08-12.46.15:505][758]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.09.08-12.46.15:583][758]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.09.08-12.46.15:595][758]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.09.08-12.46.15:595][758]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.09.08-12.46.15:618][758]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.09.08-12.46.15:618][758]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.09.08-12.46.15:618][758]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.09.08-12.46.15:618][758]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.09.08-12.46.15:631][758]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.09.08-12.46.15:631][758]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.09.08-12.46.15:700][758]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.09.08-12.46.15:700][758]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.09.08-12.46.16:566][758]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.09.08-12.46.16:587][758]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.09.08-12.46.16:734][758]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.09.08-12.46.16:734][758]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.09.08-12.46.16:773][758]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.09.08-12.46.16:809][758]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.09.08-12.46.16:809][758]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.09.08-12.46.16:810][758]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.09.08-12.46.16:810][758]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.09.08-12.46.16:825][758]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.09.08-12.46.18:110][758]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.09.08-12.46.18:123][758]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.09.08-12.46.18:132][758]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.09.08-12.46.18:132][758]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.09.08-12.46.18:143][758]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.09.08-12.46.18:143][758]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.09.08-12.46.18:143][758]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.09.08-12.46.18:165][758]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.09.08-12.46.18:250][758]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.09.08-12.46.18:273][758]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.09.08-12.46.18:312][758]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.09.08-12.46.18:344][758]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.09.08-12.46.18:346][758]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.09.08-12.46.18:346][758]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.09.08-12.46.18:346][758]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.09.08-12.46.18:359][758]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.09.08-12.46.18:364][758]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.09.08-12.46.18:364][758]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.09.08-12.46.18:384][758]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.09.08-12.46.18:384][758]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.09.08-12.46.18:394][758]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.09.08-12.46.18:401][758]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.09.08-12.46.18:401][758]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.09.08-12.46.18:420][758]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.09.08-12.46.18:428][758]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.09.08-12.46.18:428][758]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.09.08-12.46.18:436][758]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.09.08-12.46.18:436][758]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.09.08-12.46.18:436][758]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.09.08-12.46.18:436][758]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.09.08-12.46.18:436][758]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.09.08-12.46.18:457][758]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.09.08-12.46.18:478][758]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.09.08-12.46.18:478][758]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.09.08-12.46.18:499][758]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.09.08-12.46.18:526][758]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.09.08-12.46.18:538][758]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.09.08-12.46.18:568][758]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.09.08-12.46.18:602][758]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.09.08-12.46.18:602][758]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.09.08-12.46.18:602][758]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.09.08-12.46.18:608][758]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.09.08-12.46.18:609][758]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.09.08-12.46.18:609][758]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.09.08-12.46.18:635][758]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.09.08-12.46.18:635][758]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.09.08-12.46.18:655][758]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.09.08-12.46.18:681][758]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.09.08-12.46.18:694][758]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.09.08-12.46.18:694][758]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.09.08-12.46.18:695][758]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.09.08-12.46.18:695][758]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.09.08-12.46.18:696][758]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.09.08-12.46.18:696][758]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.09.08-12.46.18:696][758]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.09.08-12.46.18:696][758]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.09.08-12.46.18:709][758]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.09.08-12.46.18:746][758]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.09.08-12.46.18:747][758]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.09.08-12.46.18:848][758]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.09.08-12.46.19:169][758]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.09.08-12.46.19:170][758]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.09.08-12.46.19:170][758]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.09.08-12.46.19:170][758]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.09.08-12.46.19:170][758]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.09.08-12.46.19:236][758]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.08-12.46.19:236][758]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.09.08-12.46.19:300][758]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.09.08-12.46.19:300][758]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.09.08-12.46.19:312][758]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.09.08-12.46.19:312][758]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.09.08-12.46.19:335][758]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.08-12.46.19:337][758]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.09.08-12.46.19:353][758]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.09.08-12.46.19:353][758]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.09.08-12.46.19:370][758]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.09.08-12.46.19:370][758]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.09.08-12.46.19:391][758]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.09.08-12.46.19:391][758]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.09.08-12.46.19:448][758]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.09.08-12.46.19:448][758]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.09.08-12.46.19:478][758]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.09.08-12.46.19:519][758]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.09.08-12.46.19:519][758]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.09.08-12.46.19:519][758]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.09.08-12.46.19:584][758]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.09.08-12.46.19:665][758]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.09.08-12.46.19:674][758]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.09.08-12.46.19:674][758]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.09.08-12.46.19:677][758]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.09.08-12.46.19:753][758]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.09.08-12.46.19:753][758]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.09.08-12.46.19:773][758]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.09.08-12.46.19:773][758]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.09.08-12.46.19:773][758]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.09.08-12.46.19:788][758]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.09.08-12.46.19:832][758]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.09.08-12.46.19:852][758]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.09.08-12.46.19:852][758]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.09.08-12.46.19:852][758]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.09.08-12.46.19:853][758]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.09.08-12.46.19:908][758]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.09.08-12.46.19:916][758]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.09.08-12.46.19:917][758]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.09.08-12.46.19:917][758]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.09.08-12.46.19:964][758]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.09.08-12.46.19:989][758]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.09.08-12.46.19:989][758]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.09.08-12.46.20:051][758]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.09.08-12.46.20:111][758]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.09.08-12.46.20:141][758]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.09.08-12.46.20:166][758]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.09.08-12.46.20:205][758]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.09.08-12.46.20:205][758]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.09.08-12.46.20:234][758]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.09.08-12.46.20:247][758]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.09.08-12.46.20:322][758]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.09.08-12.46.20:360][758]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.09.08-12.46.20:367][758]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.09.08-12.46.20:367][758]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.09.08-12.46.20:367][758]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.09.08-12.46.20:396][758]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.09.08-12.46.20:418][758]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.09.08-12.46.20:463][758]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.09.08-12.46.20:471][758]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.09.08-12.46.20:471][758]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.09.08-12.46.20:471][758]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.09.08-12.46.20:490][758]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.09.08-12.46.20:513][758]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.09.08-12.46.20:514][758]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.09.08-12.46.20:523][758]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.09.08-12.46.20:537][758]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.09.08-12.46.20:562][758]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.09.08-12.46.20:586][758]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.09.08-12.46.20:608][758]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.09.08-12.46.20:608][758]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.09.08-12.46.20:608][758]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.09.08-12.46.20:609][758]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.09.08-12.46.20:617][758]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.09.08-12.46.20:636][758]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.09.08-12.46.20:642][758]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.09.08-12.46.20:656][758]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.09.08-12.46.20:656][758]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.09.08-12.46.20:676][758]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.09.08-12.46.20:676][758]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.09.08-12.46.20:676][758]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.09.08-12.46.20:676][758]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.09.08-12.46.20:688][758]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.09.08-12.46.20:689][758]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.09.08-12.46.20:689][758]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.09.08-12.46.20:689][758]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.09.08-12.46.20:706][758]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.09.08-12.46.20:706][758]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.09.08-12.46.20:719][758]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.09.08-12.46.20:719][758]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.09.08-12.46.20:719][758]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.09.08-12.46.20:720][758]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.09.08-12.46.20:720][758]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.09.08-12.46.20:815][758]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.09.08-12.46.20:846][758]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.09.08-12.46.20:860][758]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.09.08-12.46.20:872][758]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.09.08-12.46.20:874][758]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.09.08-12.46.20:883][758]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.09.08-12.46.20:892][758]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.09.08-12.46.20:902][758]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.09.08-12.46.20:903][758]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.09.08-12.46.20:903][758]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.09.08-12.46.20:916][758]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.09.08-12.46.20:973][758]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.09.08-12.46.20:974][758]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.09.08-12.46.20:974][758]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.09.08-12.46.20:974][758]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.09.08-12.46.20:977][758]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.09.08-12.46.20:977][758]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.09.08-12.46.21:003][758]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.09.08-12.46.21:003][758]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.09.08-12.46.21:017][758]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.09.08-12.46.21:035][758]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.09.08-12.46.21:045][758]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.09.08-12.46.21:055][758]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.09.08-12.46.21:069][758]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.09.08-12.46.21:069][758]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.09.08-12.46.21:069][758]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.08-12.46.21:074][758]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.09.08-12.46.21:092][758]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.09.08-12.46.21:092][758]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.09.08-12.46.21:092][758]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.09.08-12.46.21:092][758]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.09.08-12.46.21:198][758]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.09.08-12.46.21:227][758]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.09.08-12.46.21:316][758]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.09.08-12.46.21:316][758]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.08-12.46.21:317][758]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B110B7678-4225-BE93-5487-EC8C2C0A678A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=aa7e3749420c192ec913b6bba084de7f%7Cacbf03e61f044f0b8854822ab0146a0e%7Cfb541875-14ef-4350-b2ef-96ce4f41bc52&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.08-12.46.21:399][758]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.09.08-12.46.21:440][758]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.09.08-12.46.21:483][758]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.09.08-12.46.21:485][758]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.09.08-12.46.21:498][758]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.09.08-12.46.21:507][758]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.09.08-12.46.21:510][758]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.08-12.46.21:510][758]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.08-12.46.21:511][758]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.08-12.46.21:511][758]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.08-12.46.21:523][758]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.08-12.46.21:537][758]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.08-12.46.21:538][758]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.08-12.46.21:538][758]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.08-12.46.21:556][758]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.08-12.46.21:612][758]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.08-12.46.21:641][758]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.08-12.46.21:642][758]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.08-12.46.21:642][758]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.08-12.46.21:642][758]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.08-12.46.21:669][758]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.08-12.46.21:685][758]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.08-12.46.21:685][758]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.08-12.46.21:693][758]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.08-12.46.21:706][758]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.08-12.46.21:706][758]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.08-12.46.21:706][758]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.08-12.46.21:722][758]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.08-12.46.21:722][758]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.08-12.46.21:733][758]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.08-12.46.21:743][758]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.08-12.46.21:743][758]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.08-12.46.21:763][758]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.09.08-12.46.21:793][758]LogD3D11RHI: Shutdown
+[2020.09.08-12.46.21:795][758]LogD3D11RHI: CleanupD3DDevice
+[2020.09.08-12.46.21:958][758]LogExit: Exiting.
+[2020.09.08-12.46.21:997][758]Log file closed, 09/08/20 15:46:21
